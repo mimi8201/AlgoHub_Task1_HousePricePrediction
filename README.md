@@ -56,8 +56,8 @@ AlgoHub_Task1_HousePricePrediction/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/HousePricePrediction.git
-cd HousePricePrediction
+git clone https://github.com/omaimasiddiqui/AlgoHub_Task1_HousePricePrediction.git
+cd AlgoHub_Task1_HousePricePrediction
 ```
 
 ### 2️⃣ Create a Virtual Environment
